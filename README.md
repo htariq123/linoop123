@@ -1,4 +1,3 @@
 # linoop123
 test
-update
-readme
+I have exposure to various devOps tools, such as ansible, RHEL Satellite and Bladelogics.
